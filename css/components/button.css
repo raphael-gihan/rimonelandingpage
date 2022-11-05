@@ -1,0 +1,13 @@
+.btn-green {
+	background-color: #5F8575;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.btn-green:hover {
+	background-color: #4c695c;
+
+}
